@@ -1,5 +1,5 @@
 # todo-react-native
 React Native Learning Task
-npm install -g expo \n
-npm install \n
-expo start
+npm install -g expo  
+ npm install 
+ expo start
